@@ -1,0 +1,340 @@
+/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color:black;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 6px 23px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(62, 59, 127);
+}
+
+.header_content{
+    background: rgba(240, 255, 240, 1);
+    min-height: 100vh;
+}
+
+.btn-sing{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    border: 1px solid black;
+    border-radius: 18px;
+    text-align: center;
+    background: #24cc80;
+    
+    padding: 8px 28px;
+}
+.btn-sing:hover{
+    color: white;
+    background: #079454;
+}
+
+
+
+
+
+.banner_content{
+    margin-top: 50px;
+}
+
+
+.banner_content h4{
+
+color: red;
+
+font-size: 16px;
+
+font-weight: 500;
+
+line-height: 25px;
+
+font-family: 'Poppins', sans-serif;
+}
+.banner_content h1{
+
+color: black;
+
+font-size: 50px;
+
+font-weight: 700;
+
+line-height: 70px;
+
+font-family: 'Poppins', sans-serif;
+}
+
+.banner_content span{
+    color: rgba(33, 181, 115, 1)
+}
+.banner_content p{
+
+color: rgba(108, 107, 107, 1);
+
+font-size: 18px;
+
+font-weight: 400;
+
+line-height: 36px;
+
+font-family: 'Poppins', sans-serif;
+}
+.btn-custom{
+
+border: 1px solid black;
+
+border-radius: 30px 30px;
+
+padding: 10px 25px;
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 18px;
+
+background: rgba(33, 181, 115, 1);
+
+font-family: 'Roboto', sans-serif;
+}
+.btn-custom:hover{
+    color: white;
+    
+}
+
+
+
+.item_content{
+
+background: rgba(240, 255, 240, 1);
+
+padding: 50px 0;
+margin-top: 20px;
+}
+.item_content img{
+
+width: 66px;
+
+height: 85px;
+}
+.item_content h2{
+
+font-size: 25px;
+
+font-weight: 500;
+
+line-height: 40px;
+
+color: rgba(65, 57, 96, 1);
+
+margin-top: 15px;
+
+font-family: 'Poppins', sans-serif;
+}
+.item_content p{
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 20px;
+
+color: rgba(88, 88, 89, 1);
+
+font-family: 'Poppins', sans-serif;
+}
+
+.item_content:hover{
+
+background: rgb(255, 255, 255);
+
+box-shadow: 0px 0px 20px 3px #878282;
+border-radius: 10px;
+}
+
+
+
+
+
+
+
+.cours{
+
+background: white;
+
+padding: 20px 20px;
+
+width: 100%;
+
+
+border-radius: 10px;
+border: 1px solid rgb(231, 231, 231);
+}
+.cours img{
+
+}
+.cours h2{
+
+font-size: 25px;
+
+line-height: 36px;
+
+font-weight: 600;
+
+color: #413960;
+
+margin-top: 20px;
+}
+.cours h5{
+    font-size: 16px;
+    color: rgba(88, 88, 89, 1);
+    font-weight: 400;
+}
+.btn-cours{
+
+border: 1px solid black;
+
+border-radius: 30px 30px;
+
+padding: 6px 15px;
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 20px;
+
+background: rgb(26, 183, 112);
+
+font-family: 'Roboto', sans-serif;
+
+margin: 15px 0;
+}
+.btn-cours:hover{
+    color: white;
+
+    background: rgb(16, 138, 83);
+    
+}
+.cours ul{
+
+margin: 0;
+
+padding: 0;
+
+display: flex;
+
+justify-content: space-between;
+
+list-style: none;
+}
+
+.cours ul li{
+
+font-size: 17px;
+
+line-height: 25px;
+
+font-weight: 500;
+
+color: #585858;
+}
+.cours ul li i{
+
+margin-right: 10px;
+}
+
+.cours:hover{
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px 3px #878282;
+    border-radius: 10px;
+}
+
+.courses-text h1{
+    
+font-size: 40px;
+    
+line-height: 55px;
+    
+font-weight: 600;
+    
+text-align: center;
+}
+
+
+
+
+
+.client{
+    
+width: 40%;
+    
+border-radius: 50% 50%;
+    
+border: 1px solid #a8a3a3;
+    
+overflow: hidden;
+    
+margin-left: auto;
+}
+.client img{
+
+width: 100%;
+}
+.text-call p{
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 28px;
+
+color: black;
+}
+
+
+
+
+
+
+footer{
+
+background: rgba(40, 37, 49, 1);
+
+color: white;
+
+}
+footer p{
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 31px;
+}
+footer ul{
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+}
+footer ul li{
+    font-weight: 100;
+}
+footer ul li:first-child{
+    font-weight: 400;
+}
